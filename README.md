@@ -1,4 +1,4 @@
-## Dependancies
+## Dependencies
 
 - tkinter (gui)
 - pyinstaller (executable file)
